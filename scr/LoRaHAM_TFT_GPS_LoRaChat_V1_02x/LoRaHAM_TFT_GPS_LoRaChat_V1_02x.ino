@@ -51,7 +51,7 @@ SFE_UBLOX_GNSS myGNSS;
 long lastTime = 0; //Simple local timer. Limits amount if I2C traffic to u-blox module.
 
 
-const String Call     = "DC2WA";   // Callsign
+const String Call     = "DCxYY";   // Callsign
 const String CallSSID = "-10";   // Callsign
 
 bool GPSFix = false;
