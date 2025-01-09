@@ -7,7 +7,7 @@ LoRaHAM is a hardware project for radio amateurs to enable LoRa with high transm
 First code for the LoRaHAM hardware | https://www.loraham.de/shop
 
 * Arduino IDE: 1.8.19 | https://downloads.arduino.cc/arduino-1.8.19-windows.exe
-* ESP: 2.0.5 | https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+* ESP: 3.0.7 | https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 * ESP SPIFF-Uploader (this uploads the web pages to the ESP32) | https://github.com/me-no-dev/arduino-esp32fs-plugin
 * Directory "libraries" contains all libraries for the project 
 * Directory "tools" contains e.g. the SPIFFS-Uploader
@@ -43,7 +43,7 @@ LoRaHAM ist ein Hardware-Projekt für Funkamateure, um LoRa mit hoher Sendeleist
 Erster Code für die LoRaHAM-hardware | https://www.loraham.de/shop
 
 * Arduino-IDE: 1.8.19 | https://downloads.arduino.cc/arduino-1.8.19-windows.exe
-* ESP: 2.0.5 | https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+* ESP: 3.0.7 | https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 * ESP SPIFF-Uploader (damit werden die Webseiten auf den ESP32 hochgeladen) | https://github.com/me-no-dev/arduino-esp32fs-plugin
 * Verzeichnis "libraries" enthält alle Bibliotheken für das Projekt 
 * Verzeichnis "tools" enthält z.b. den SPIFFS-Uploader
