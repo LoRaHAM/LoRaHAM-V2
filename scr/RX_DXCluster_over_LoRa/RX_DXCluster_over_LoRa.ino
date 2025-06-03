@@ -45,7 +45,7 @@ void setup() {
   
   tft.init();
   tft.setRotation(3);  
-  tft.invertDisplay(1);                   // Invertiere das Display, falls du eine andere Variante benutzt und die Farben invertiert dargestellt werden.
+  //tft.invertDisplay(1);                   // Invertiere das Display, falls du eine andere Variante benutzt und die Farben invertiert dargestellt werden.
     
   tft.fillScreen(TFT_BLACK);
 
